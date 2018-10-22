@@ -22,3 +22,6 @@ client/static/js/frame-runner.js
 client/static/js/frame-runner.js.map
 client/static/_redirects
 env.json
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
